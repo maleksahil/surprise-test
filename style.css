@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    height: 100vh;
+}
+
+.profile_section{
+    height: 12%;
+}
+
+.profilephoto{
+    height: 100%;
+    /* border: 1px solid black; */
+    background-image: url("profile_picture.jpg");
+    background-size: cover;
+}
+
+.profile_name{
+    height: 100%;
+    /* border: 1px solid black; */
+}
+
+.text{
+    height: 12%;
+}
+
+.image{
+    height: 40%;
+    background-image: url("facebook_image.avif");
+    background-size: cover;
+}
+
+.upper_icons{
+    height: 5%;
+}
+
+.icons{
+    height: 5%;
+}
+
+.bottom_profile_section{
+    height: 10%;
+}
+
+.fan-profile-picture{
+    background-image: url("channel6.jpg");
+    background-size: cover;
+}
+
+.comments{
+    height: 10%;
+}
